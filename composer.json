@@ -1,0 +1,25 @@
+{
+    "name": "mabioca/jalali-calendar",
+    "description": "Jalali calendar and Persian numeral support for Flarum.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^2.0"
+    },
+    "support": {
+        "forum": "https://discuss.flarum.org/d/40057-jalali-calendar-and-persian-numerals-for-flarum-2",
+        "issues": "https://github.com/mabioca/jalali-calendar/issues",
+        "source": "https://github.com/mabioca/jalali-calendar"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Jalali Calendar",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-sun",
+                "backgroundColor": "#DA0000",
+                "color": "#fff"
+            }
+        }
+    }
+}
